@@ -22,8 +22,8 @@ limitations under the License.
     <title>In-App Messaging</title>
 
     <!-- jquery and bootstrap js -->
-    <script src="https://lprod.code-api-att.com/public_files/js/jquery.min.js"></script>
-    <script src="https://lprod.code-api-att.com/public_files/js/bootstrap.min.js"></script>
+    <script src="ttps://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
     <!-- custom js -->
     <script src="js/config.js"></script>
     <script src="js/form_handler.js"></script>
@@ -31,31 +31,14 @@ limitations under the License.
     <script src="js/sample_app.js"></script>
 
     <!-- bootstrap css -->
-    <link rel="stylesheet" href="https://lprod.code-api-att.com/public_files/css/bootstrap.min.css">
-    <link rel="stylesheet" href="https://lprod.code-api-att.com/public_files/css/bootstrap-theme.min.css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
+
     <!-- custom css -->
     <link href="https://lprod.code-api-att.com/public_files/css/custom.css" rel="stylesheet">
 
-    <script type="text/javascript">
-        var _gaq = _gaq || [];
-        _gaq.push(['_setAccount', 'UA-33466541-1']);
-        _gaq.push(['_trackPageview']);
-
-        (function () {
-             var ga = document.createElement('script');
-             ga.type = 'text/javascript';
-             ga.async = true;
-             ga.src = ('https:' == document.location.protocol ? 'https://ssl'
-                                         : 'https://www')
-                                         + '.google-analytics.com/ga.js';
-             var s = document.getElementsByTagName('script')[0];
-             s.parentNode.insertBefore(ga, s);
-         })();
-    </script>
-
-    <!--[if lt IE 9]>
-      <script src="https://lprod.code-api-att.com/public_files/js/html5shiv.min.js"></script>
-      <script src="https://lprod.code-api-att.com/public_files/js/respond.min.js"></script>
+   <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
     <![endif]-->
   </head>
   <body>
